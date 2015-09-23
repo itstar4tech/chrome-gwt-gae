@@ -1,0 +1,1 @@
+This project is developed by modifying [gwt-gae-bookmarks](http://code.google.com/p/gwt-gae-bookmarks) project to support latest version of gwt.
